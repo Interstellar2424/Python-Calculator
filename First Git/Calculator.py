@@ -1,7 +1,7 @@
 #Calculator: A Project by Lakshya;
 
 import math
-print("Calculator: A Project by Lakshya")
+print("Python Calculator: -- A Project by Lakshya")
 print("if your operation is sqrt then the second value will be ignored.")
 
 #Input the first and second int.
