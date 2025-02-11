@@ -23,7 +23,7 @@ elif operation == "%":
     print(float(a) % float(b))
 
 elif operation == "^":
-    print(float(a) ** int(b))
+    print(float(a) ** float(b))
     
 if operation == "square root":
     print(math.sqrt(float(a)))
